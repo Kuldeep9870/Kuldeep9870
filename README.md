@@ -1,6 +1,8 @@
 # 💫 About Me:
-Hii 👋, I'm Kuldeep<br><br>A Student Pursuing Bachelor of Technology in Computer Science.<img width="45%" align ="right" alt="GIF" src="https://media.giphy.com/media/br99SojJZ5rlfSYset/giphy.gif"><br><br>🌱 I'm Currently learning DSA & Web development<br><br>💬Ask me about anything, would love to answer them.✌<br><br>📫 How to reach me - kuldeep26285@gmail.com
+Hii 👋, I'm Kuldeep<br><br>A Student Pursuing Bachelor of Technology in Computer Science.<img width="40%" align ="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"><br><br>🌱 I'm Currently learning DSA & Web development<br><br>💬Ask me about anything, would love to answer them.✌<br><br>📫 How to reach me - kuldeep26285@gmail.com
 
+<!--https://media.giphy.com/media/br99SojJZ5rlfSYset/giphy.gif
+-->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/abc.com](https://instagram.com/imkuldeep22?igshid=NGExMmI2YTkyZg==)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/linkedin.com](https://www.linkedin.com/in/kuldeep-a64578207)) 
@@ -30,5 +32,5 @@ Hii 👋, I'm Kuldeep<br><br>A Student Pursuing Bachelor of Technology in Comput
 -->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kuldeep9870&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Kuldeep9870&icon=0&color=0)](https://visitcount.itsvg.in)  
 
